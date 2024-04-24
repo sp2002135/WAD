@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "state": "NYC",
+            "city": "Gwenborough"
+        },
+        "dob": "25-12-2001",
+        "gender": "male",
+        "hobbies": "pool"
+    }
+]
+ 
